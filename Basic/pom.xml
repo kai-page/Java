@@ -3,4 +3,9 @@
   <groupId>basic</groupId>
   <artifactId>Basic</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <properties>
+	  <mave.compiler.source>17</mave.compiler.source>
+	  <maven.compiler.target>17</maven.compiler.target>
+  </properties>
 </project>
