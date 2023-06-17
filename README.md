@@ -3,19 +3,12 @@
 Javaのサンプルコードを格納しています。
 
 
-✅Basic
-
-HelloWorldから基礎文法について
-
-✅Database
-
-データベース(MySQL)との連携について
-
-✅ObjectOriented
-
-オブジェクト指向について
-
-✅SpringBootSample1
-
-SpringBootについて
+✅Basic<br>
+HelloWorldから基礎文法について<br>
+✅Database<br>
+データベース(MySQL)との連携について<br>
+✅ObjectOriented<br>
+オブジェクト指向について<br>
+✅SpringBootSample1<br>
+SpringBootについて<br>
 
