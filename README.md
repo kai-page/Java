@@ -12,6 +12,3 @@ HelloWorldから基礎文法について
 ✅ObjectOriented<br>
 オブジェクト指向について
 
-✅SpringBootSample1<br>
-SpringBootについて
-
